@@ -1,0 +1,164 @@
+/* CSS */
+body {
+    margin: 0;
+	background-color:#e8eaed;
+}
+
+span {
+    margin: 0 5px;
+    padding: 5px 10px;
+    background-color: gray;
+    border-radius: 5px;
+    cursor: pointer;
+	font-family: Trebuchet MS;
+	border-style:outset;
+	border-width:2px;
+	
+}
+
+#header {
+    height: 200px;
+    background-color: black;
+    background-size: cover;
+    background-position: center;
+	font-family: Trebuchet MS;
+}
+
+#title {
+    color: white;
+    margin: 0;
+    padding: 50px 20px;
+	font-family: Trebuchet MS;
+	text-align:center;
+    
+}
+
+#navigation {
+    color: whitesmoke;
+    text-align: right;
+    padding: 0 20px;
+}
+
+#Aboutus-left {
+    width: 600px;
+    margin: 10px 10px;
+    float: top;
+  height: 300px;
+  
+    
+}
+
+#Aboutus-right {
+    padding: 0 20px;
+}
+
+#pick {
+    padding: 10px 20px;
+    background-color: black;
+    cursor: pointer;
+    border: none;
+    outline: none;	
+	float: bottom;
+	font-family: Trebuchet MS;
+	color: white;
+  
+}
+
+#footer {
+    clear: left;
+    padding: 5px 20px;
+    color: white;
+    background-color: black;
+	font-family: Trebuchet MS;
+}
+
+#Products, #Feedback {
+    display: none;
+}
+
+#Products .card {
+    width: 300px;
+    margin-left: 2.5%;
+    height: 650px;
+    border-style:	solid;
+    border-width:3.5px;
+}
+
+.container {
+    max-width: 1050px;
+    margin: auto;
+}
+
+.page {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.page-header {
+    color: black;
+	font-family:Trebuchet MS;
+}
+
+.page-text, .card-text {
+    padding: 0 10px;
+	font-family: Trebuchet MS;
+}
+
+.card {
+    width: 47%;
+    margin-left: 2%;
+    margin-bottom: 20px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+    overflow: hidden;
+    float: left;
+}
+
+.card-image {
+    width: 300px;
+  height: 200px;
+}
+
+
+#Aboutus-one
+{
+	width: 600px;
+    margin: 10px 10px;
+	height: 300px;
+}
+
+.Aboutus-text {
+	text-align: center;
+	font-family: Trebuchet MS;
+}
+
+.order-button {
+	height:50px;
+	width:110px;
+	cursor:pointer;
+	background-color:black;
+	color:white;
+}
+
+.Feedback-page-title{
+	Font-family: Trebuchet MS;
+	text-align: center;
+	
+}
+
+.feedback-page-text{
+	Font-family: Trebuchet MS;
+	text-align:center;
+	margin: 50px 50px;
+	
+}
+	
+
+.order-image{
+	width:600px;
+	height:300px;
+	margin: 10px 10px;
+}
+	
+	
+	
